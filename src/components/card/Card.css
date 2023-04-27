@@ -1,0 +1,30 @@
+
+.card{
+    width: 400px;
+    margin:  10px;
+    padding: 20px;
+    border: 1px solid rgb(117, 117, 117);
+    border-radius: 5px;
+    display: flex;
+
+}
+.card .imagen{
+    text-align: center;
+}
+.card img{
+    max-width: 220px;
+    max-height: 220px;
+}
+.card .card-body{
+    text-align: center;
+
+}
+
+.card .button{
+    text-align: end;
+}
+
+.card a{
+    max-width: 10vh;
+
+}

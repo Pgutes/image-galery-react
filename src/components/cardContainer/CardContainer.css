@@ -1,0 +1,7 @@
+.card-container{
+    margin-left: 30vh;
+    margin-right: 30vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
